@@ -1,5 +1,5 @@
 // Assignment 5
-// Write code to convert temperture in Celsius to Fahrenheit and from Farenheit to Celsius.
+// Write code to convert temperture from Farenheit into Celsius.
 
 import {ToFahren} from "./amna-assign5-ToFahren.js";
 
